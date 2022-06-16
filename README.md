@@ -1,6 +1,6 @@
 # Seja bem vindo(a), meu nome é Ana Lívia
 Desenvolvedora Full-Stack
-Graduando em Sistemas de Informação<br>
+<br>Graduando em Sistemas de Informação<br>
 
 <div>
   <a href="https://github.com/nalivex">
