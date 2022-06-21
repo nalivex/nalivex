@@ -24,5 +24,4 @@
   <a href="https://www.instagram.com/naliviadias_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
 </div>
  
-  ![Snake animation](https://github.com/Nalivex/Nalivex/blob/output/github-contribution-grid-snake.svg)
 
