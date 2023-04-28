@@ -5,7 +5,7 @@
 
 <div>
   <a href="https://github.com/nalivex">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nalivex&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical&theme=dracula)"/>
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nalivex&layout=compact&langs_count=7&theme=dracula"/>
 <div>
   
